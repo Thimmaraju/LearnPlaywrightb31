@@ -9,14 +9,14 @@
 //await must be used inside an async function.
 //=========================================================
 
-// async function functionName() {
-//     try {
-//       const result = await someAsyncFunction();
-//       console.log(result);
-//     } catch (error) {
-//       console.error("Error:", error.message);
-//     }
-//   }
+async function functionName() {
+    try {
+      const result = await someAsyncFunction();
+      console.log(result);
+    } catch (error) {
+      console.error("Error:", error.message);
+    }
+  }
 
 // // //=====================================================
 
