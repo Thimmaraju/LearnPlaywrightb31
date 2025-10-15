@@ -1,0 +1,23 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.env
+allure-report
+allure-results
+
+
+# LearnPlaywrightRaju
+
+
+create .env file 
+
+Keep below Veriables 
+ 
+
+APP_USERNAME=
+APP_PASSWORD=
+ORDERNUMBER=""
