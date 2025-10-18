@@ -21,3 +21,6 @@ Keep below Veriables
 APP_USERNAME=
 APP_PASSWORD=
 ORDERNUMBER=""
+
+# Playwright
+/playwright/.auth/
